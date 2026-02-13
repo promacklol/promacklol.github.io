@@ -36,6 +36,7 @@ export const SITE_CONTENT: SiteContent = {
         "2024 - Présent : Spécialisation intensive en C# (Backend, Sockets, Système).",
         "2023 : Exploration des langages système avec C++ et Rust.",
         "2020 - 2023 : Automatisation et scripting via Autoit v2.",
+        "2017 - 2020 : Script batch",
       ],
     },
     {
@@ -47,15 +48,6 @@ export const SITE_CONTENT: SiteContent = {
         "Web Backend : Développement de solutions de gestion avec PHP.",
         "Bases de données : Conception et administration via SQL.",
         "Mobile : Introduction au développement avec Kotlin.",
-      ],
-    },
-    {
-      company: "BAC Pro Systèmes Numériques",
-      position: "Formation Initiale",
-      startDate: "2017",
-      endDate: "2020",
-      summary: [
-        "Apprentissage des bases fondamentales des systèmes informatiques et des réseaux.",
       ],
     },
   ],
