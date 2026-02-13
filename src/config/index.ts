@@ -36,7 +36,7 @@ export const SITE_CONTENT: SiteContent = {
         "2024 - Présent : Spécialisation intensive en C# (Backend, Sockets, Système).",
         "2023 : Exploration des langages système avec C++ et Rust.",
         "2020 - 2023 : Automatisation et scripting via Autoit v2.",
-        "2017 - 2020 : Script batch",
+        "2017 - 2020 : Développement d'utilitaires et scripts d'automatisation en batch",
       ],
     },
     {
