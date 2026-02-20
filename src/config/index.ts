@@ -52,25 +52,11 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Remote Administration Tool (C#)",
-      summary: "Projet majeur (Été 2026) : Développement d'un outil de contrôle à distance complet en C# focalisé sur la gestion des flux réseaux et les communications Sockets.",
+      name: "LennyClient (Config Manager)",
+      summary: "Application console C# intégrant un système de persistance de données via le Registre Windows et une interface utilisateur CLI interactive.",
       linkPreview: "/",
-      linkSource: "https://github.com/promacklol",
-      image: "/project-rat.png",
-    },
-    {
-      name: "WinForms Desktop Apps",
-      summary: "Conception d'outils d'administration et d'interfaces de gestion de données utilisant le framework .NET et WinForms.",
-      linkPreview: "/",
-      linkSource: "https://github.com/promacklol",
-      image: "/project-winforms.png",
-    },
-    {
-      name: "Systèmes d'automatisation",
-      summary: "Scripts d'automatisation système complexes et utilitaires développés avec AutoIt v3 entre 2020 et 2023.",
-      linkPreview: "/",
-      linkSource: "https://github.com/promacklol",
-      image: "/project-autoit.png",
+      linkSource: "https://github.com/promacklol/LennyClient",
+      image: "/project-client.png",
     },
   ],
   about: {
