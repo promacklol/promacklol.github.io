@@ -62,8 +62,9 @@ export const SITE_CONTENT: SiteContent = {
   about: {
     description: `
       Ancien élève de Bac Pro Systèmes Numériques, je prépare actuellement mon BTS SIO option SLAM. 
-      Ma force réside dans ma capacité à mener deux apprentissages de front : un cursus académique structuré et une spécialisation personnelle poussée sur le développement logiciel avec l'écosystème C#. 
-      Passionné par la logique pure et les interactions de bas niveau, je cherche constamment à approfondir mes connaissances techniques et la conception applicative au-delà du cadre scolaire.
+      Ma force réside dans la synergie entre mon cursus académique et une spécialisation personnelle approfondie. 
+      Initialement formé aux fondamentaux de la programmation système via le C++, j'ai naturellement évolué vers l'écosystème C# pour la conception d'outils utilitaires performants. 
+      Passionné par la logique pure et les interactions de bas niveau, je cherche constamment à lier rigueur technique et architecture logicielle moderne, au-delà du cadre scolaire.
     `,
     image: "/profile.jpg",
   },
